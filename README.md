@@ -1,4 +1,4 @@
-#Comparacao_Naive_Bayes
+# Comparacao_Naive_Bayes
 
 
 Explicação do algoritmo Naive Bayes feito em Python
